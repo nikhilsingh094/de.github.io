@@ -33,6 +33,7 @@ body{
 }
 
 
+
 @media screen and (max-width:479px){
     .sub-footer{
         flex-direction: column;
